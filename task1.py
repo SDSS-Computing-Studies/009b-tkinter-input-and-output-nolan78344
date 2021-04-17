@@ -32,7 +32,6 @@ def Display():
     GAME = entry6.get()
 
 
-
     PLURALNOUN2 = entry7.get()
 
 
@@ -70,7 +69,7 @@ def Display():
     PLURALNOUN4 = entry19.get()
 
 
-    story ="A vacation is when you take a trip to some" + ADJECTIVE + "\nplace with your" + ADJECTIVE2 + "\nfamily. Usually you go to some place that is near a/an"+ NOUN + "\nor up on a/an" + NOUN2 + "\n. A good vacation place is one where you can ride" + PLURALNOUN + "\nor play" +  GAME + "\nor go hunting for" + PLURALNOUN2 + ". I like to spend my time" + VING + "\n or" + VING2 + "\n. When parents go on a vacation, they spend their time eating three" + PLURALNOUN3 +"\n a day, and fathers play golf, and mothers sit around" + VING3 +".\n Last summer, my little brother fell in a/an" + NOUN3 + "\nand got poison" + PLANT + "\nall over his" + BODY +"\n. My family is going to go to (the)" + PLACE2 + "\n, and I will practice" +  VING4 + "\n. Parents need vacations more than kids because parents are always very" + ADJECTIVE3 + "\nand because they have to work" + NUM + "\nhours every day all year making enough" + PLURALNOUN4 + "\nto pay for the vacation."
+    story ="A vacation is when you take a trip to some" + ADJECTIVE + "\nplace with your" + ADJECTIVE2 + "\nfamily. Usually you go to some place that is near a/an"+ NOUN + "\nor up on a/an" + NOUN2 + "\n. A good vacation place is one where you can ride" + PLURALNOUN + "\nor play" +  GAME + "\nor go hunting for" + PLURALNOUN2 + ". I like to spend my time" + VING + "\n or" + VING2 + "\n. When parents go on a vacation, they spend their time eating three" + PLURALNOUN3 +"\n a day, and fathers play golf, and mothers sit around" + VING3 +".\n Last summer, my little brother fell in a/an" + NOUN3 + "\nand got poison" + PLANT + "\nall over his" + BODY +"\n. My family is going to go to (the)" + PLACE + "\n, and I will practice" +  VING4 + "\n. Parents need vacations more than kids because parents are always very" + ADJECTIVE3 + "\nand because they have to work" + NUM + "\nhours every day all year making enough" + PLURALNOUN4 + "\nto pay for the vacation."
     eoutput.set(story)
 
 
